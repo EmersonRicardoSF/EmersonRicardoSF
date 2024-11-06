@@ -1,5 +1,7 @@
 ### Hello, everything is fine? 😁
 
+My name is Emerson Ricardo and I am a recent iOS developer...
+
 <!--
 **EmersonRicardoSF/EmersonRicardoSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
